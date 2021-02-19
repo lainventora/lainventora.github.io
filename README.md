@@ -1,3 +1,3 @@
 # lainventora.github.io
 
-[Lainventora.github.io](https://lainventora.github.io/)
+[lainventora.github.io](https://lainventora.github.io/)
